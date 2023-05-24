@@ -17,7 +17,7 @@ module.exports = (sequelize, DataTypes) => {
     circuit: DataTypes.STRING,
     laps: DataTypes.INTEGER,
     winner: DataTypes.STRING,
-    constructor: DataTypes.STRING
+    winningCnstrc: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'GPs',
