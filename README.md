@@ -1,6 +1,8 @@
 # Sequelize GPs API
 This API allows you to perform CRUD operations on a database of F1 Grands Prix!
 
+GP(s) = Grand(s) Prix
+
 ## Endpoints
 The following section provides information on the available endpoints for this API.
 
